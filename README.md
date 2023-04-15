@@ -1,5 +1,9 @@
 # 파이썬 머신러닝 완벽 가이드  
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103241965/232186071-7d0db365-dd35-4016-97b4-d1a86d198393.png">
+</p>
+  
+  
 ## 목차
 1장: 파이썬 기반의 머신러닝과 생태계 이해  
 2장: 사이킷런으로 시작하는 머신러닝  
