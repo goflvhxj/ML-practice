@@ -1,4 +1,4 @@
-# ML/DL-practice
+# ML/DL practice
 ML/DL 공부하는 과정을 기록하는 곳입니다.  
   
 ## ML
