@@ -1,5 +1,5 @@
 # 파이썬 머신러닝 완벽 가이드  
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/103241965/232186071-7d0db365-dd35-4016-97b4-d1a86d198393.png">
 </p>
   
